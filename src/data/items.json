@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Blocks",
+        "price": 10.99,
+        "imgUrl": "public/imgs/blocks.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Camera",
+        "price": 1199,
+        "imgUrl": "public/imgs/camera.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Lock",
+        "price": 1.05,
+        "imgUrl": "public/imgs/lock.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Security",
+        "price": 14000,
+        "imgUrl": "public/imgs/security.jpg"
+    }
+]
